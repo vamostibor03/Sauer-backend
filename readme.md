@@ -1,0 +1,1 @@
+To start development, simply run `npm run dev`
